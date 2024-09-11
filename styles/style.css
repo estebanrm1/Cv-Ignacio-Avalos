@@ -135,3 +135,13 @@ body{
     }
 
 }
+
+@media(max-width: 371px){
+    .btn-insta{
+        flex-direction: column;
+        align-items: center;
+    }
+    .btn-insta img{
+        max-width: 33px;
+    }
+}
